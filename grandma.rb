@@ -6,3 +6,5 @@ def speak_to_grandma (phrase)
   else 
     return "HUH?! SPEAK UP, SONNY!"
 end
+
+speak_to_grandma ("I LOVE YOU GRANDMA!")
